@@ -1,0 +1,5 @@
+python-telegram-bot
+tradingview-ta
+requests
+google-genai
+pandas
